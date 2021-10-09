@@ -4,6 +4,7 @@
   <tt:root name="WRITER"/>
   <tt:root name="CURRENT_TIME"/>
   <tt:variable name="owriter" ref-type="ZCL_ISSUE_5001_ABAPGIT"/>
+  <tt:variable name="owriter2" ref-type="ZISSUE_5001_ABAPGIT_BIS"/>
 
   <tt:template>
     <tt:assign ref="WRITER" to-var="owriter"/>
